@@ -1,0 +1,246 @@
+
+  0   1   2   3   4   5
+0      O   O   O   O
+1    O   1   O   T   O
+2      O   O   O   O    
+
+
+  0   1   2   3   4   5
+0      O   1   O   O
+1    O   O   B   T   O
+2      O   O   O   O    
+
+
+  0   1   2   3   4   5
+0      O   O   B   O
+1    O   1   B   T   O
+2      O   O   O   O    
+
+
+  0   1   2   3   4   5   6   7
+0      O   O   O   O   O   O
+1    T   O   O   1   O   O   T
+2      O   O   O   O   O   O    
+
+
+  0   1   2   3   4   5   6   7
+0      O   O   O   O   O   O
+1    T   O   B   O   1   O   T
+2      O   O   O   O   O   O    
+
+
+  0   1   2   3   4   5   6   7
+0      O   O   O   O   1   O
+1    T   O   B   O   O   B   T
+2      O   O   O   O   O   O    
+
+
+  0   1   2   3   4   5   6   7
+0      O   O   O   O   O   B
+1    T   O   B   O   1   B   T
+2      O   O   O   O   O   O    
+
+
+  0   1   2   3   4   5   6   7
+0      O   O   O   1   O   B
+1    T   O   B   O   O   B   T
+2      O   O   O   O   O   B    
+
+
+  0   1   2   3   4   5   6   7
+0      O   B   O   O   O   B
+1    T   O   B   1   O   B   T
+2      O   O   O   O   O   B    
+
+
+  0   1   2   3   4   5   6
+0              T   O   O
+1            O   O   O   O
+2          O   O   O   O   O
+3        O   O   O   1   O   T
+4          O   O   O   O   O    
+5            O   O   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   O   O
+1            O   O   O   O
+2          O   O   1   O   O
+3        O   O   O   O   B   T
+4          O   O   O   O   O    
+5            O   O   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   O   O
+1            O   B   1   O
+2          O   O   O   O   O
+3        O   O   O   O   B   T
+4          O   O   O   O   O    
+5            O   O   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   B   O
+1            O   B   O   1
+2          O   O   O   O   O
+3        O   O   O   O   B   T
+4          O   O   O   O   O    
+5            O   O   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   B   O
+1            O   B   O   O
+2          O   O   O   1   B
+3        O   O   O   O   B   T
+4          O   O   O   O   O    
+5            O   O   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   B   O
+1            O   B   O   O
+2          O   O   O   O   B
+3        O   O   O   1   B   T
+4          O   O   O   O   O    
+5            O   B   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   B   O
+1            O   B   O   O
+2          O   O   1   O   B
+3        O   O   O   O   B   T
+4          O   O   O   O   B    
+5            O   B   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   B   O
+1            B   B   O   O
+2          O   O   O   O   B
+3        O   O   1   O   B   T
+4          O   O   O   O   B    
+5            O   B   O   O        
+6              T   O   O            
+
+
+  0   1   2   3   4   5   6
+0              T   B   O
+1            B   B   O   O
+2          O   O   O   O   B
+3        O   O   O   O   B   T
+4          O   O   1   O   B    
+5            B   B   O   O        
+6              T   O   O            
+
+(double tap: 1)
+  0   1   2   3   4   5   6   7
+0      O   O   O   O   O   O
+1    O   T   O   1   O   T   O
+2      O   O   O   O   O   O    
+
+(double tap: 0)
+  0   1   2   3   4   5   6   7
+0      O   O   O   O   O   O
+1    O   T   B   1   O   T   O
+2      O   O   O   O   O   O    
+
+(double tap: 0)
+  0   1   2   3   4   5   6   7
+0      O   O   1   O   O   O
+1    O   T   B   O   B   T   O
+2      O   O   O   O   O   O    
+
+(double tap: 0)
+  0   1   2   3   4   5   6   7
+0      O   B   O   1   O   O
+1    O   T   B   O   B   T   O
+2      O   O   O   O   O   O    
+
+(double tap: 0)
+  0   1   2   3   4   5   6   7
+0      O   B   O   O   B   O
+1    O   T   B   1   B   T   O
+2      O   O   O   O   O   O    
+
+(double tap: 0)
+  0   1   2   3   4   5   6   7
+0      O   B   O   O   B   O
+1    O   T   B   O   B   T   O
+2      O   B   O   1   O   O    
+
+
+  0   1   2   3   4   5
+0      O   O   O   X
+1    O   1   O   O   T
+2      O   O   O   X    
+
+
+  0   1   2   3   4   5
+0      O   1   O   X
+1    O   O   B   O   T
+2      O   O   O   X    
+
+
+  0   1   2   3   4   5
+0      O   O   B   X
+1    O   1   B   O   T
+2      O   O   O   X    
+
+
+  0   1   2   3   4   5   6
+0          O   O   O   O
+1        O   O   O   O   O
+2      2   O   O   T   O   O
+3        O   O   O   O   O    
+4          O   O   O   O        
+
+
+  0   1   2   3   4   5   6
+0          O   O   O   O
+1        O   2   O   O   O
+2      O   O   B   T   O   O
+3        O   O   O   O   O    
+4          O   O   O   O        
+
+
+  0   1   2   3   4   5   6
+0          O   O   2   O
+1        O   O   B   O   O
+2      O   O   B   T   O   O
+3        O   O   O   O   O    
+4          O   O   O   O        
+
+
+  0   1   2   3   4   5   6
+0          O   O   O   O
+1        O   O   B   B   2
+2      O   O   B   T   O   O
+3        O   O   O   O   O    
+4          O   O   O   O        
+
+
+  0   1   2   3   4   5   6
+0          O   O   O   O
+1        O   O   B   B   O
+2      O   O   B   T   B   O
+3        O   O   O   O   2    
+4          O   O   O   O        
+
+
+  0   1   2   3   4   5   6
+0          O   O   O   O
+1        O   O   B   B   O
+2      O   O   B   T   B   O
+3        O   O   O   B   O    
+4          O   O   2   O        
+

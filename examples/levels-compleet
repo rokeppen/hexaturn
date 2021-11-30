@@ -1,0 +1,49 @@
+powers: None
+
+cells:
+* tube(0, -1, 0, 1, 1): normal
+* cell(0, -1): robot(1)
+* cell(0, 1): target
+---
+powers: None
+
+cells:
+* tube(0, -2, 0, 2, 1): normal
+* cell(0, 0): robot(1)
+* cell(0, -3): target
+* cell(0, 3): target
+---
+powers: None
+
+cells:
+* hexagon(-1, 1, 2): normal
+* hexagon(1, 0, 2): normal
+* cell(0, -2): normal
+* cell(0, 3): target
+* cell(-3, 1): target
+* cell(3, -2): target
+* cell(0, 1): robot(1)
+---
+powers:
+* double tap: 1 charge
+
+cells:
+* tube(0, -2, 0, 2, 1): normal
+* cell(0, -2): target
+* cell(0, 0): robot(1)
+* cell(0, 2): target
+---
+powers: None
+
+cells:
+* hexagon(0, 1, 1): nonblockable
+* tube(0, -1, 0, 0, 1): normal
+* cell(0, -1): robot(1)
+* cell(0, 2): target
+---
+powers: None
+
+cells:
+* tube(0, 0, 0, 1, 2): normal
+* cell(0, 1): target
+* cell(0, -2): robot(2)

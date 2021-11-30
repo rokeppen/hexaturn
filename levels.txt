@@ -1,0 +1,15 @@
+powers: None
+
+cells:
+* hexagon(1, 1, 1): normal
+* cell(0, 0): robot(1)
+* cell(0, 2): target
+---
+powers:
+* freeze: 3 charges
+* double tap: 1 charge
+
+cells:
+* hexagon(0, 0, 2): normal
+* cell(0, -2): robot(1)
+* cell(0, 2): target
